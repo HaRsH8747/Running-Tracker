@@ -11,6 +11,7 @@ import android.content.Intent
 import android.location.Location
 import android.os.Build
 import android.os.Looper
+import android.util.Log
 import androidx.annotation.RequiresApi
 import androidx.core.app.NotificationCompat
 import androidx.lifecycle.LifecycleService
